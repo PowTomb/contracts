@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at cronoscan.com on 2022-08-06
-*/
-
 // SPDX-License-Identifier: MIT
 
 
